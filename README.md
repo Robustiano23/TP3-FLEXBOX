@@ -1,7 +1,8 @@
 🎯 Proyecto: Réplica de Landing Page con Flexbox
 Este proyecto consiste en la replicación de una landing page de diseño profesional utilizando únicamente HTML y CSS, con especial énfasis en la maquetación mediante Flexbox.
 
-💻 Tecnologías utilizadas
+💻 Tecnologías utilizadas:
+
 HTML5
 
 CSS3
