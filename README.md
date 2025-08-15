@@ -21,3 +21,6 @@ Se aplicaron estilos personalizados usando Flexbox para controlar el diseño res
 Se respetaron márgenes, paddings, tamaños y ubicaciones con precisión.
 👨‍💻 Autor
 Trabajo práctico realizado por:Robustiano.
+
+
+ver proyecto: https://robustiano23.github.io/TP3-FLEXBOX/
